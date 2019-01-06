@@ -1,0 +1,7 @@
+#lista rozszerzeń/plików/folderów do zignorowania
+
+# katalogi po /
+
+*.dat
+#ignoruje wszystkie pliki z rozszerzeniem .dat
+#a przynajmniej powinno
