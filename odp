@@ -1,0 +1,2 @@
+Śledzone są wszystkie pliki za wyjątkiem tych wpisanych do pliku .gitignore, które w zamierzeniu naszym zostały przez git zignorowane. 
+tj. wszystkie z rozszerzeniem .dat
